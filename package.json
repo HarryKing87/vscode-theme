@@ -1,0 +1,21 @@
+{
+    "name": "coding-harry",
+    "displayName": "coding_harry",
+    "description": "The official coding_harry extension!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coding_Harry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coding_Harry-color-theme.json"
+            }
+        ]
+    }
+}
