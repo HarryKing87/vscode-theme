@@ -3,7 +3,7 @@
     "displayName": "coding_harry",
     "description": "The official coding_harry extension!",
     "publisher": "codingharry",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -18,7 +18,7 @@
                 "path": "./themes/Coding_Harry-color-theme.json"
             },
             {
-                "label": "Coding_Harry v2",
+                "label": "Coding_Harry Cold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coding_Harry_v2.json"
             }

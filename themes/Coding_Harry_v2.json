@@ -4,7 +4,7 @@
     "colors": {
         "editor.background": "#121212",
         "editor.foreground": "#a1b9b9",
-        "activityBarBadge.background": "#45e14c",
+        "activityBarBadge.background": "#c45832",
         "sideBarTitle.foreground": "#bbbbbb",
         "sideBarSectionHeader.background":"#1b1b1b",
         "sideBarSectionHeader.foreground": "#ea76cb",
@@ -122,7 +122,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#81a1c1"
+                "foreground": "#e5df2e"
             }
         },
         {
