@@ -48,6 +48,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#D08770"
             }
         },
@@ -122,6 +123,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#e5df2e"
             }
         },
