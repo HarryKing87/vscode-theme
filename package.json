@@ -15,6 +15,11 @@
                 "label": "Coding_Harry",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coding_Harry-color-theme.json"
+            },
+            {
+                "label": "Coding_Harry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coding_Harry_v2.json"
             }
         ]
     }
