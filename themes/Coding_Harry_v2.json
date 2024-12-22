@@ -4,14 +4,14 @@
 	"colors": {
 		"editor.background": "#121212",
 		"editor.foreground": "#a1b9b9",
-		"activityBarBadge.background": "#ea76cb",
+		"activityBarBadge.background": "#45e14c",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBarSectionHeader.background":"#1b1b1b",
 		"sideBarSectionHeader.foreground": "#ea76cb",
-		"sideBar.background": "#1b1b1b",
+		"sideBar.background": "#121212",
 		"sideBar.foreground": "#8839ef",
 		"sideBar.border": "#767976",
-		"button.background": "#dc8a78",
+		"button.background": "#45e14c",
 
 		"welcomePage.background": "#121212",
 		"welcomePage.progress.background":"#121212",
@@ -19,11 +19,11 @@
 		"welcomePage.tileBackground": "#750080",
 
 		//Lists and Trees
-		"textBlockQuote.background": "#dc8a78",
+		"textBlockQuote.background": "#A117F2",
 		"textLink.foreground": "#dd7878",
 
 		// Status Bar
-		"statusBar.background": "#dc8a78",
+		"statusBar.background": "#45ca4b",
 
 		// Activity Bar
 		"activityBar.background": "#1b1b1b",
@@ -32,7 +32,7 @@
 		"menubar.selectionForeground": "#ea76cb",
 
 		//Breadcrumbs
-		"breadcrumb.foreground": "#8839ef"
+		"breadcrumb.foreground": "#2e3d1e"
 	
 	},
 	"tokenColors": [
@@ -44,7 +44,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#8839ef"
+				"foreground": "#c17ab0"
 			}
 		},
 		{
@@ -54,7 +54,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#04d9ff"
+				"foreground": "#eec70c"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffe600"
+				"foreground": "#00f5ff"
 			}
 		},
 		{
@@ -73,7 +73,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#fa6a82"
+				"foreground": "#ff3333"
 			}
 		},
 		{
@@ -105,7 +105,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#d20f39"
+				"foreground": "#a7a7a7"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#e64553"
+				"foreground": "#7b008a"
 			}
 		},
 		{

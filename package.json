@@ -18,7 +18,7 @@
                 "path": "./themes/Coding_Harry-color-theme.json"
             },
             {
-                "label": "Coding_Harry",
+                "label": "Coding_Harry v2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coding_Harry_v2.json"
             }
