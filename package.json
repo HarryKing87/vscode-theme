@@ -2,7 +2,7 @@
     "name": "coding-harry",
     "displayName": "coding_harry",
     "description": "The official coding_harry extension!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.65.0"
     },
