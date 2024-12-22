@@ -11,7 +11,7 @@
         "sideBar.background": "#121212",
         "sideBar.foreground": "#8839ef",
         "sideBar.border": "#767976",
-        "button.background": "#45e14c",
+        "button.background": "#c45832",
 
         "welcomePage.background": "#121212",
         "welcomePage.progress.background":"#121212",
@@ -21,7 +21,7 @@
         "textBlockQuote.background": "#A117F2",
         "textLink.foreground": "#dd7878",
 
-        "statusBar.background": "#45ca4b",
+        "statusBar.background": "#c45832",
 
         "activityBar.background": "#1b1b1b",
 
