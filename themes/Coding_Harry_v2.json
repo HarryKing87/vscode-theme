@@ -122,7 +122,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#fe640b"
+                "foreground": "#81a1c1"
             }
         },
         {
@@ -131,7 +131,7 @@
                 "meta.block variable.other"
             ],
             "settings": {
-                "foreground": "#fe640b"
+                "foreground": "#b48ead"
             }
         },
         {
