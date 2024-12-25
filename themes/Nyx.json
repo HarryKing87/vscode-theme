@@ -124,7 +124,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#e52e5f"
+                "foreground": "#be4379"
             }
         },
         {
@@ -133,7 +133,7 @@
                 "meta.block variable.other"
             ],
             "settings": {
-                "foreground": "#7aff85"
+                "foreground": "#81CDBF"
             }
         },
         {
