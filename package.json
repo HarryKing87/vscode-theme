@@ -3,7 +3,7 @@
     "displayName": "coding_harry",
     "description": "The official coding_harry extension!",
     "publisher": "codingharry",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -21,6 +21,11 @@
                 "label": "Coding_Harry Cold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coding_Harry_v2.json"
+            },
+            {
+                "label": "Nyx",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nyx.json"
             }
         ]
     }

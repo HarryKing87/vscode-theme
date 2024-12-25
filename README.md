@@ -4,4 +4,6 @@
 
 Introducing... the cold theme!
 
+"version": "0.1.1" --> Testing a new coding theme... Nyx
+
 **Enjoy!**
