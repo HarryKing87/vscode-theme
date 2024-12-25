@@ -3,7 +3,8 @@
     "displayName": "coding_harry",
     "description": "The official coding_harry extension!",
     "publisher": "codingharry",
-    "version": "0.1.8",
+    "version": "0.2.0",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.65.0"
     },
