@@ -4,12 +4,12 @@
     "colors": {
         "editor.background": "#121212",
         "editor.foreground": "#a1b9b9",
-        "activityBarBadge.background": "#c45832",
+        "activityBarBadge.background": "#32c465",
         "sideBarTitle.foreground": "#bbbbbb",
         "sideBarSectionHeader.background":"#1b1b1b",
         "sideBarSectionHeader.foreground": "#ea76cb",
         "sideBar.background": "#121212",
-        "sideBar.foreground": "#8839ef",
+        "sideBar.foreground": "#d0d0d0",
         "sideBar.border": "#767976",
         "button.background": "#c45832",
 
@@ -110,7 +110,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#66D9EF"
             }
         },
         {
