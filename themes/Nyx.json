@@ -11,7 +11,7 @@
         "sideBar.background": "#121212",
         "sideBar.foreground": "#d0d0d0",
         "sideBar.border": "#767976",
-        "button.background": "#c45832",
+        "button.background": "#32c46c",
 
         "welcomePage.background": "#121212",
         "welcomePage.progress.background":"#121212",
@@ -174,7 +174,8 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#04d9ff"
+                "fontStyle": "italic",
+                "foreground": "#ff8d04"
             }
         },
         {
@@ -309,7 +310,7 @@
                 "source.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#fe640b"
+                "foreground": "#5499c7"
             }
         },
         {
@@ -318,7 +319,7 @@
                 "source.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#40a02b"
+                "foreground": "#48c9b0"
             }
         },
         {
@@ -327,7 +328,7 @@
                 "source.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#04d9ff"
+                "foreground": "#f1bf43"
             }
         },
         {
