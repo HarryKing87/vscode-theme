@@ -21,7 +21,7 @@
         "textBlockQuote.background": "#A117F2",
         "textLink.foreground": "#dd7878",
 
-        "statusBar.background": "#c45832",
+        "statusBar.background": "#121212",
 
         "activityBar.background": "#1b1b1b",
 
@@ -263,7 +263,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#BE00FE"
+                "foreground": "#be4379"
             }
         },
         {
