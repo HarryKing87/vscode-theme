@@ -27,7 +27,7 @@
 
         "menubar.selectionForeground": "#ea76cb",
 
-        "breadcrumb.foreground": "#2e3d1e"
+        "breadcrumb.foreground": "#ff8d04"
     },
     "tokenColors": [
         {
