@@ -1,9 +1,18 @@
 # README
 
-version: 0.1.0 --> Contains a new, "updated" version of the second theme! I tried to update this theme a long time ago, but here we are finally!
+🌟 What's New
 
-Introducing... the cold theme Nyx
+Version 0.1.1
+Testing a new version of the Nyx theme.
+Version 0.1.0
+A long-overdue update to the second theme! After some delay, it's finally here.
 
-version: 0.1.1 --> Testing a new coding theme... Nyx
+🚀 Getting Started
+
+Open your VS Code.
+Head to the Extensions Marketplace.
+Search for "CodingHarry".
+Install and activate.
+Enjoy coding in the cool, calm embrace of Nyx.
 
 **Enjoy!**
